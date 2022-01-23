@@ -349,6 +349,14 @@ input, select, textarea {
 			margin-left: 16.66667%;
 		}
 
+		.row > .col-2-4 {
+			width: 20%;
+		}
+
+		.row > .off-2-4 {
+			margin-left: 20%;
+		}
+
 		.row > .col-3 {
 			width: 25%;
 		}
@@ -2830,18 +2838,6 @@ input, select, textarea {
 		}
 
 /* Main */
-
-	.cert {
-		float: left;
-		width: 150px;
-		height: 150px;
-		margin-right: 40px;
-	}
-
-	.cert-image {
-		width: 150px;
-		height: 150px;
-	}
 
 	.main {
 		padding: 6em 0 4em 0 ;
